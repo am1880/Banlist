@@ -1,1 +1,1 @@
-Alloe list for pi-hole
+Allow list for pi-hole
