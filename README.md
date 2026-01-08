@@ -1,9 +1,3 @@
-Allow list and blacklist for pi-hole i am relly new to this coding if i make any mistakes plase let me know
-This project is based on and includes code from:
-https://github.com/original/repo
+Allow list and blacklist for Pi-hole. I am really new to this coding; if I make any mistakes, please let me know.
 
-Original project © Original Author  
-Licensed under the GNU General Public License v3.0.
-
-Changes made by me
--Fixed it so mbl.is works
+This is just a personal project. 
